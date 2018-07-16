@@ -1,0 +1,15 @@
+{
+  "name": "colorsyntax",
+  "version": "1.0.0",
+  "description": "Colorateur Syntaxique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuyu",
+  "license": "ISC",
+  "dependencies": {
+    "highlight": "^0.2.4",
+    "highlightjs": "^9.10.0"
+  }
+}
